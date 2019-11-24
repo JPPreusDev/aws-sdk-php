@@ -29,7 +29,7 @@ class GuzzleHandler
         'proxy'             => true,
         'expect'            => true,
         'cert'              => true,
-        'verify'            => true,
+        'verify'            => false,
         'timeout'           => true,
         'debug'             => true,
         'connect_timeout'   => true,
